@@ -1,16 +1,30 @@
-# Brian Santiago — Cybersecurity GRC Portfolio
+# GRC Portfolio
 
-**ISO 27001 Certified Lead Auditor | CompTIA Security+ | NIST CSF | HIPAA/FERPA**
-
-Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://linkedin.com/in/briansantiago)
+Brian Santiago | Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://linkedin.com/in/briansantiago-grc)
 
 ---
 
-## About This Portfolio
+This is a collection of GRC work I built to show how I actually think through compliance and risk problems, not just that I know what the acronyms stand for.
 
-I built this to show the practical side of GRC work — not just that I know the frameworks, but that I can apply them. Everything here is based on real methodology: risk registers with actual scoring logic, audit checklists mapped to specific regulatory requirements, policies written the way you'd write them for a real organization.
+Everything here follows real methodology. The risk register uses a proper 5x5 scoring matrix. The HIPAA checklist is mapped to actual CFR citations. The ISO 27001 gap analysis covers Annex A control by control. I built these the same way I would build them for a real organization, because that is the only version worth showing.
 
-My background is IT operations in regulated environments (HIPAA, FERPA, NIST CSF), which means I understand what I'm auditing. I've maintained audit evidence cycles, authored SOPs under compliance pressure, and done incident response documentation in live environments. The GRC Mastery program added the framework depth on top of that operational base.
+My background is IT operations in HIPAA and FERPA-regulated environments. That context matters for GRC work. I have maintained audit evidence cycles, written SOPs under compliance pressure, and managed access controls in regulated systems. The framework knowledge builds on top of that, not the other way around.
+
+---
+
+## Documents
+
+| Document | Framework |
+|---|---|
+| [Risk Register](risk-management/risk-register.md) | NIST SP 800-30 |
+| [Risk Assessment Methodology](risk-management/risk-assessment-methodology.md) | NIST SP 800-30 / ISO 27005 |
+| [HIPAA Security Rule Audit Checklist](audit-compliance/hipaa-security-rule-checklist.md) | 45 CFR Parts 160 and 164 |
+| [NIST CSF 2.0 Maturity Assessment](audit-compliance/nist-csf-maturity-assessment.md) | NIST CSF 2.0 |
+| [ISO 27001 Gap Analysis](frameworks/iso27001-gap-analysis.md) | ISO/IEC 27001:2022 |
+| [Information Security Policy](policies/information-security-policy.md) | ISO 27001 / HIPAA |
+| [Access Control Policy](policies/access-control-policy.md) | NIST SP 800-53 / ISO 27001 |
+| [Incident Response Plan](incident-response/incident-response-plan.md) | NIST SP 800-61 |
+| [Third-Party Risk Assessment Questionnaire](templates/third-party-risk-assessment-questionnaire.md) | ISO 27001 / HIPAA |
 
 ---
 
@@ -19,43 +33,25 @@ My background is IT operations in regulated environments (HIPAA, FERPA, NIST CSF
 - ISO 27001 Certified Lead Auditor
 - CompTIA Security+ (2024)
 - CompTIA Network+ (2024)
+- Microsoft SC-900
 - Qualys Vulnerability Management Foundation
 - ITIL Foundation (2024)
 - Google Cybersecurity Certificate (2024)
 
 ---
 
-## Portfolio Contents
+## Skills
 
-| Document | Description |
-|---|---|
-| [Risk Register](risk-management/risk-register.md) | 14-item risk register with inherent/residual scoring across cybersecurity, compliance, and operational risk categories |
-| [Risk Assessment Methodology](risk-management/risk-assessment-methodology.md) | Full methodology covering identification, analysis, treatment, and review processes |
-| [HIPAA Security Rule Checklist](audit-compliance/hipaa-security-rule-checklist.md) | 45-item audit checklist mapped to Administrative, Physical, and Technical Safeguards |
-| [NIST CSF Maturity Assessment](audit-compliance/nist-csf-maturity-assessment.md) | Maturity scoring across all 5 CSF functions with gap analysis and target states |
-| [ISO 27001 Gap Analysis](frameworks/iso27001-gap-analysis.md) | Annex A controls gap analysis with remediation priorities |
-| [Information Security Policy](policies/information-security-policy.md) | Full organizational ISP covering classification, access, incident reporting, and acceptable use |
-| [Access Control Policy](policies/access-control-policy.md) | Detailed access control standards including least privilege, PAM, MFA, and review cycles |
-| [Incident Response Plan](incident-response/incident-response-plan.md) | NIST SP 800-61 aligned IR plan with severity classifications, escalation matrix, and playbooks |
-| [Third-Party Risk Questionnaire](templates/third-party-risk-assessment-questionnaire.md) | 45-question TPRM questionnaire with scoring methodology |
+Frameworks: HIPAA, FERPA, NIST CSF, ISO 27001, SOC 1/2, NIST 800-171, ISO 27701, ISO 42001
+
+Audit and compliance: gap analysis, control testing, evidence collection, audit coordination, policy authoring
+
+Risk: risk registers, CAPA planning, third-party risk assessments, treatment planning
+
+IAM: provisioning and deprovisioning, MFA, access governance, access reviews
+
+Tools: Splunk, Wireshark, NinjaOne, Qualys, Confluence, Microsoft 365, Azure AD, Active Directory
 
 ---
 
-## Core Competencies
-
-**Frameworks:** HIPAA, SOX, FERPA, NIST CSF, ISO 27001, SOC 1/2, NIST 800-171, ISO 27701, ISO 42001
-
-**Audit and Compliance:** gap analysis, control testing, evidence collection, internal/external audit coordination, IMS documentation
-
-**Risk Management:** risk register development, CAPA planning, third-party risk assessments, metrics and reporting
-
-**IAM and Controls:** provisioning/deprovisioning, MFA enforcement, access governance, patch management, RCA
-
-**Tools:** Splunk, Wireshark, NinjaOne, Qualys, Confluence, Microsoft 365/Azure AD, Active Directory
-
----
-
-## Contact
-
-Open to GRC Analyst, IT Compliance Analyst, and Information Security Compliance Analyst roles.
-Reach me at briand.santiago@gmail.com.
+Open to junior GRC Analyst, IT Compliance Analyst, and Information Security Compliance Analyst roles.
