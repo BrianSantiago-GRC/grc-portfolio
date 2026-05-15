@@ -2,29 +2,43 @@
 
 Brian Santiago | Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://linkedin.com/in/briansantiago-grc)
 
+Sample GRC documentation portfolio for junior GRC, compliance operations, and security-focused IT operations roles.
+
 ---
 
-## Purpose
+## Project Purpose
 
 This repository is a sample GRC documentation portfolio.
 
-I created these artifacts to practice how risk, controls, audit evidence, access reviews, policies, and incident response documentation connect in a compliance operations environment. The work is meant to show practical understanding and documentation discipline, not live GRC program ownership.
+I created these artifacts to practice how risk, controls, audit evidence, access reviews, policies, and incident response documentation connect in a compliance operations environment.
 
-My background is in IT support and operations, including Microsoft 365, Active Directory, Entra ID, endpoint support, account/access tasks, documentation, and compliance-aware work in healthcare and education environments. This portfolio builds on that operational foundation.
+The work is meant to show practical understanding and documentation discipline, not live GRC program ownership, audit authority, or compliance leadership.
+
+---
+
+## Tools Used
+
+- Markdown documentation
+- NIST CSF concepts
+- NIST SP 800-30 concepts
+- NIST SP 800-61 concepts
+- HIPAA Security Rule concepts
+- ISO 27001 control concepts
+- Microsoft 365 / Entra ID operational context
 
 ---
 
 ## What I Practiced
 
 - Organizing sample GRC artifacts by function.
-- Mapping documentation to common frameworks and compliance needs.
-- Writing clear procedures and support documents.
+- Mapping documentation to common framework and compliance concepts.
+- Writing clear policy, procedure, risk, and evidence support documents.
 - Thinking through audit evidence, access control, risk, and incident response from an operations perspective.
 - Connecting IT support experience to junior GRC and compliance operations work.
 
 ---
 
-## Documents
+## Key Documents
 
 | Document | Focus |
 |---|---|
@@ -40,18 +54,6 @@ My background is in IT support and operations, including Microsoft 365, Active D
 
 ---
 
-## Tools / References Used
-
-- NIST CSF concepts
-- NIST SP 800-30 concepts
-- NIST SP 800-61 concepts
-- HIPAA Security Rule concepts
-- ISO 27001 control concepts
-- Microsoft 365 / Entra ID operational context
-- Markdown documentation
-
----
-
 ## Skills Demonstrated
 
 - Audit evidence support concepts.
@@ -64,9 +66,11 @@ My background is in IT support and operations, including Microsoft 365, Active D
 
 ---
 
-## What I Learned
+## Lessons Learned
 
-This portfolio helped me practice how GRC work depends on clear documentation, repeatable evidence, realistic control language, and operational context. The most useful lesson was that compliance work has to connect to how systems, users, access, and support processes actually operate.
+This portfolio helped me practice how GRC work depends on clear documentation, repeatable evidence, realistic control language, and operational context.
+
+The most useful lesson was that compliance work has to connect to how systems, users, access, and support processes actually operate.
 
 ---
 
@@ -81,21 +85,19 @@ Planned additions:
 - Sample audit checklist preview.
 - Sample incident response notes layout.
 
+No screenshots are claimed until files are added and sanitized.
+
+---
+
+## Future Improvements
+
+- Add screenshots or previews of key artifacts.
+- Add short notes explaining how each artifact supports junior GRC or compliance operations work.
+- Add a small access review example tied to Microsoft 365 / Entra ID concepts.
+- Continue removing language that could imply audit authority or GRC ownership.
+
 ---
 
 ## Limitations
 
 These are sample learning artifacts. They do not represent live program ownership, audit authority, or compliance leadership.
-
----
-
-## Next Improvement
-
-- Review internal documents for inflated wording.
-- Add screenshots or previews of key artifacts.
-- Add short notes explaining how each artifact would support junior GRC or compliance operations work.
-- Add a small access review example tied to Microsoft 365 / Entra ID concepts.
-
----
-
-Open to junior GRC Analyst, IT Compliance Analyst, Compliance Operations, and security-focused IT operations roles.
