@@ -1,9 +1,11 @@
 # Risk Register
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not a production risk register and does not represent ownership of an enterprise GRC program.
+
 **Organization:** Sample Organization (Healthcare/Education Sector)
 **Last Review:** March 2026
-**Owner:** GRC Analyst
-**Classification:** Internal Use Only
+**Sample Role:** GRC Analyst
+**Classification:** Sample Internal Use Only
 
 ---
 

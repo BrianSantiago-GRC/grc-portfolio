@@ -8,7 +8,7 @@ Brian Santiago | Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://link
 
 This repository is a sample GRC documentation portfolio.
 
-I created these artifacts to practice how risk, controls, audit evidence, access reviews, policies, and incident response documentation connect in a compliance operations environment. The work is meant to show practical understanding and documentation discipline, not senior GRC program ownership.
+I created these artifacts to practice how risk, controls, audit evidence, access reviews, policies, and incident response documentation connect in a compliance operations environment. The work is meant to show practical understanding and documentation discipline, not live GRC program ownership.
 
 My background is in IT support and operations, including Microsoft 365, Active Directory, Entra ID, endpoint support, account/access tasks, documentation, and compliance-aware work in healthcare and education environments. This portfolio builds on that operational foundation.
 
@@ -85,7 +85,7 @@ Planned additions:
 
 ## Limitations
 
-These are sample learning artifacts. They do not represent ownership of an enterprise GRC program, production audit authority, or senior compliance leadership.
+These are sample learning artifacts. They do not represent live program ownership, audit authority, or compliance leadership.
 
 ---
 

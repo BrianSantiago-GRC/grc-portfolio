@@ -1,12 +1,14 @@
 # Incident Response Plan
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not an approved organizational incident response plan and does not represent ownership of an enterprise security program.
+
 | Field | Value |
 |---|---|
 | Document ID | IRP-001 |
 | Version | 1.1 |
-| Status | Approved |
-| Owner | Information Security Officer |
-| Approved By | Executive Leadership |
+| Status | Sample |
+| Sample Role | Information Security Officer |
+| Example Approver | Executive Leadership |
 | Effective Date | January 2026 |
 | Next Review | January 2027 |
 | Framework | NIST SP 800-61 Rev. 2 |
@@ -15,7 +17,7 @@
 
 ## 1. Purpose
 
-This Incident Response Plan (IRP) defines the organization's procedures for preparing for, detecting, analyzing, containing, eradicating, and recovering from information security incidents. It ensures a coordinated, effective response that minimizes impact to operations, protects sensitive data, and meets regulatory notification requirements under HIPAA, FERPA, and other applicable regulations.
+This sample Incident Response Plan (IRP) practices documenting procedures for preparing for, detecting, analyzing, containing, eradicating, and recovering from information security incidents. It shows how response steps, escalation, and regulatory considerations can be organized.
 
 ---
 
@@ -116,7 +118,7 @@ The organization must maintain the following detection mechanisms:
 - SIEM / log aggregation (Splunk) with configured alerts
 - Endpoint protection with alerting (NinjaOne EDR)
 - Email security with phishing reporting capability
-- Vulnerability scanning (Qualys) on a defined schedule
+- Vulnerability scanning on a defined schedule
 - User reporting mechanism (IT helpdesk / direct ISO contact)
 
 ### 7.3 Preparedness Activities

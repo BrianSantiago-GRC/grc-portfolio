@@ -1,8 +1,10 @@
 # ISO/IEC 27001:2022 Gap Analysis
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not a production ISO assessment and does not represent ownership of an enterprise GRC program.
+
 **Standard:** ISO/IEC 27001:2022
 **Organization:** Sample Organization (Healthcare/Education Sector)
-**Analyst:** Brian Santiago
+**Prepared By:** Brian Santiago (sample artifact)
 **Analysis Date:** March 2026
 **Status Key:** Implemented | Partial | Not Implemented | N/A
 
@@ -10,9 +12,9 @@
 
 ## Gap Analysis Scope
 
-This gap analysis assesses the organization's current security controls against ISO/IEC 27001:2022 Annex A controls and selected clause requirements. The analysis identifies gaps, estimates implementation effort, and provides a prioritized remediation roadmap.
+This sample gap analysis practices reviewing security controls against ISO/IEC 27001:2022 Annex A controls and selected clause requirements. The analysis identifies example gaps, estimates implementation effort, and provides a sample remediation roadmap.
 
-**Assessment Method:** Document review, stakeholder interviews, and technical configuration review.
+**Assessment Method:** Sample document review, assumed stakeholder inputs, and example technical configuration review.
 
 ---
 
@@ -137,13 +139,13 @@ This gap analysis assesses the organization's current security controls against 
 | A.8.5 | Secure authentication | Partial | High | MFA enforced on remote and cloud; gaps on internal apps |
 | A.8.6 | Capacity management | Not Implemented | Low | No formal capacity monitoring process |
 | A.8.7 | Protection against malware | Implemented | — | Endpoint protection deployed via NinjaOne |
-| A.8.8 | Management of technical vulnerabilities | Partial | High | Qualys scans performed; no formal SLA tracking |
+| A.8.8 | Management of technical vulnerabilities | Partial | High | Example vulnerability scan findings reviewed; no formal SLA tracking |
 | A.8.9 | Configuration management | Partial | High | GPO applied; no formal hardening baseline documented |
 | A.8.10 | Information deletion | Partial | Medium | Data disposal policy exists; not uniformly applied to cloud storage |
 | A.8.11 | Data masking | Not Implemented | Medium | No data masking for non-production environments |
 | A.8.12 | Data leakage prevention | Not Implemented | High | No DLP controls in place |
 | A.8.13 | Information backup | Partial | High | Backups performed; no documented recovery test |
-| A.8.14 | Redundancy of information processing | Partial | High | Some redundancy; no formal high-availability architecture documented |
+| A.8.14 | Redundancy of information processing | Partial | High | Some redundancy; no formal high-availability design documented |
 | A.8.15 | Logging | Partial | High | Splunk in use; retention policy not formalized |
 | A.8.16 | Monitoring activities | Partial | High | SIEM alerts configured; no formal triage or escalation process |
 | A.8.17 | Clock synchronization | Implemented | — | NTP configured on servers |
@@ -156,7 +158,7 @@ This gap analysis assesses the organization's current security controls against 
 | A.8.24 | Use of cryptography | Partial | High | Encryption policies defined; not uniformly applied |
 | A.8.25 | Secure development lifecycle | N/A | — | No custom development in scope |
 | A.8.26 | Application security requirements | N/A | — | No custom development in scope |
-| A.8.27 | Secure system architecture | Partial | Medium | Architecture documented informally |
+| A.8.27 | Secure system design | Partial | Medium | System design documented informally |
 | A.8.28 | Secure coding | N/A | — | No custom development in scope |
 | A.8.29 | Security testing in development and acceptance | N/A | — | No custom development in scope |
 | A.8.30 | Outsourced development | N/A | — | No outsourced development in scope |
@@ -202,9 +204,9 @@ This gap analysis assesses the organization's current security controls against 
 |---|---|---|
 | A.5.18 | Access reviews not completed | Execute first quarterly privileged access review |
 | A.5.22 | Vendor reviews absent | Implement annual vendor review process |
-| A.5.7 | No threat intel | Subscribe to CISA AIS; assign monitoring owner |
+| A.5.7 | No threat intel | Subscribe to relevant alert sources; assign monitoring owner |
 | A.8.2 | No PAM tool | Evaluate and implement PAM solution |
-| A.8.8 | Vuln SLA not tracked | Define and track remediation SLAs in Qualys |
+| A.8.8 | Vuln SLA not tracked | Define and track remediation SLAs in a vulnerability management tool |
 | A.8.15 | Log retention undocumented | Document Splunk retention and review policy |
 
 ### Medium Priority (Complete within 90 days)

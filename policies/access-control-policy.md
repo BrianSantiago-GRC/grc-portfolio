@@ -1,12 +1,14 @@
 # Access Control Policy
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not an approved organizational policy and does not represent ownership of an enterprise GRC program.
+
 | Field | Value |
 |---|---|
 | Document ID | ACP-001 |
 | Version | 1.2 |
-| Status | Approved |
-| Owner | Information Security Officer |
-| Approved By | Executive Leadership |
+| Status | Sample |
+| Sample Role | Information Security Officer |
+| Example Approver | Executive Leadership |
 | Effective Date | January 2026 |
 | Next Review | January 2027 |
 
@@ -14,7 +16,7 @@
 
 ## 1. Purpose
 
-This Access Control Policy establishes requirements for managing access to organizational systems, applications, and data. It defines standards for user provisioning, authentication, privileged access management, access reviews, and deprovisioning to protect the confidentiality, integrity, and availability of information assets.
+This sample Access Control Policy practices documenting requirements for managing access to organizational systems, applications, and data. It covers user provisioning, authentication, privileged access management, access reviews, and deprovisioning.
 
 ---
 

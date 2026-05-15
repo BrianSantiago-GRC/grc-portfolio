@@ -1,8 +1,10 @@
 # NIST Cybersecurity Framework (CSF) Maturity Assessment
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not a production assessment and does not represent ownership of an enterprise GRC program.
+
 **Framework Version:** NIST CSF 2.0
 **Organization:** Sample Organization (Healthcare/Education Sector)
-**Assessor:** Brian Santiago
+**Prepared By:** Brian Santiago (sample artifact)
 **Assessment Date:** March 2026
 **Methodology:** Capability Maturity Model (1–4 scale)
 
@@ -59,7 +61,7 @@ The Identify function supports understanding of current cybersecurity risk to or
 
 | Ref | Control | Current | Target | Gap | Notes |
 |---|---|---|---|---|---|
-| ID.RA-01 | Vulnerabilities identified and documented | 3 | 4 | Yes | Qualys scans performed; no formal SLA for remediation tracking |
+| ID.RA-01 | Vulnerabilities identified and documented | 3 | 4 | Yes | Example vulnerability scan findings reviewed; no formal SLA for remediation tracking |
 | ID.RA-02 | Cyber threat intelligence received and analyzed | 2 | 3 | Yes | Informal monitoring; no structured threat intel process |
 | ID.RA-03 | Threats identified and documented | 2 | 3 | Yes | Risk register started; not all assets covered |
 | ID.RA-05 | Risk response options identified | 2 | 3 | Yes | Risk register in progress; treatment plans incomplete |
@@ -70,7 +72,7 @@ The Identify function supports understanding of current cybersecurity risk to or
 | Ref | Control | Current | Target | Gap | Notes |
 |---|---|---|---|---|---|
 | ID.IM-01 | Improvements identified from evaluations | 2 | 3 | Yes | No formal lessons-learned process after incidents |
-| ID.IM-02 | Improvements identified from security tests | 2 | 3 | Yes | Qualys findings not formally tracked to resolution |
+| ID.IM-02 | Improvements identified from security tests | 2 | 3 | Yes | Example security findings not formally tracked to resolution |
 
 **Function Average: 2.1 / 4 | Target: 3.3 / 4**
 
@@ -237,7 +239,7 @@ The Recover function supports timely restoration of normal operations.
 |---|---|---|---|
 | Recovery plans not tested | 1.0 | 3.0 | Schedule backup recovery test; document results |
 | No DLP or insider threat monitoring | 1.0 | 3.0 | Evaluate DLP solutions; implement M365 Purview controls |
-| No threat intelligence program | 1.0 | 3.0 | Subscribe to FS-ISAC or CISA alerts; integrate into Splunk |
+| No threat intelligence program | 1.0 | 3.0 | Subscribe to relevant alerts; integrate review into a SIEM/log workflow |
 | No tested incident response plan | 1.0 | 3.0 | Conduct tabletop exercise within 60 days |
 | Supply chain risk management absent | 1.0 | 3.0 | Implement TPRM questionnaire for all vendors |
 
@@ -279,7 +281,7 @@ The Recover function supports timely restoration of normal operations.
 ### 60–90 Days
 - Implement CAPA tracking process
 - Extend MFA to all internal applications
-- Subscribe to threat intelligence feed (CISA AIS, FS-ISAC)
+- Subscribe to relevant threat intelligence or sector alert sources
 - Develop and approve formal BCP/DRP
 
 ### 90–180 Days

@@ -1,12 +1,14 @@
 # Risk Assessment Methodology
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not an approved organizational policy and does not represent ownership of an enterprise GRC program.
+
 | Field | Value |
 |---|---|
 | Document ID | RAM-001 |
 | Version | 1.1 |
-| Status | Approved |
-| Owner | GRC Analyst |
-| Approved By | Information Security Officer |
+| Status | Sample |
+| Sample Role | GRC Analyst |
+| Example Approver | Information Security Officer |
 | Effective Date | January 2026 |
 | Next Review | January 2027 |
 
@@ -14,7 +16,7 @@
 
 ## 1. Purpose
 
-This document defines the organization's methodology for identifying, analyzing, evaluating, and treating information security risks. It establishes a repeatable, consistent approach that supports compliance with HIPAA, FERPA, NIST CSF, and ISO 27001 requirements.
+This sample document outlines a practical methodology for identifying, analyzing, evaluating, and treating information security risks. It practices a repeatable approach that can support HIPAA, FERPA, NIST CSF, and ISO 27001 alignment.
 
 ---
 
@@ -48,7 +50,7 @@ Before beginning any risk assessment, define:
 | Data Types In Scope | PHI, PII, student records, financial data, etc. |
 | Regulatory Context | Applicable regulations (HIPAA, FERPA, SOX, etc.) |
 | Assessment Trigger | Scheduled annual review, system change, incident, new vendor |
-| Assessment Owner | GRC Analyst or delegated assessor |
+| Assessment Coordinator | GRC Analyst or delegated assessor |
 
 Document the scope in the Risk Assessment Scope Statement prior to data collection.
 
@@ -103,7 +105,7 @@ For each threat-asset pair, identify existing vulnerabilities:
 
 | Vulnerability Type | Assessment Method |
 |---|---|
-| Technical vulnerabilities | Vulnerability scanning (Qualys), penetration testing results, patch status |
+| Technical vulnerabilities | Vulnerability scanning output, penetration testing results, patch status |
 | Configuration weaknesses | Security baseline review, CIS Benchmark comparison |
 | Process gaps | Policy review, control testing, audit findings |
 | Training gaps | Training completion records, phishing simulation results |

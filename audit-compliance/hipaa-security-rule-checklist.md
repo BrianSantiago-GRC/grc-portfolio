@@ -1,8 +1,10 @@
 # HIPAA Security Rule Audit Checklist
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not a production audit record and does not represent ownership of an enterprise GRC program.
+
 **Regulation:** 45 CFR Parts 160 and 164
 **Audit Scope:** Administrative, Physical, and Technical Safeguards
-**Auditor:** Brian Santiago
+**Prepared By:** Brian Santiago (sample artifact)
 **Review Date:** March 2026
 **Status Key:** Implemented | Partial | Not Implemented | N/A
 
@@ -38,7 +40,7 @@
 | 164.308(a)(7)(ii)(B) | Emergency mode operation plan | Partial | Emergency operations procedure | High-level only; needs detail |
 | 164.308(a)(7)(ii)(C) | Testing and revision procedures for contingency plans | Not Implemented | Test schedules, test results | No documented test has been performed |
 | 164.308(a)(7)(ii)(D) | Applications and data criticality analysis | Not Implemented | Asset inventory with criticality ratings | Asset inventory in progress |
-| 164.308(a)(8) | Evaluation: periodic technical/non-technical security evaluations | Partial | Vulnerability scan results, last evaluation date | Qualys scans performed; formal evaluation report not produced |
+| 164.308(a)(8) | Evaluation: periodic technical/non-technical security evaluations | Partial | Vulnerability scan results, last evaluation date | Example vulnerability scan findings reviewed; formal evaluation report not produced |
 | 164.308(b)(1) | Business Associate Contracts: BAAs in place with all BAs | Implemented | BAA log with vendor names and execution dates | Annual review of BAA list recommended |
 
 ---

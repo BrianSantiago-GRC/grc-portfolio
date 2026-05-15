@@ -1,8 +1,10 @@
 # Third-Party Risk Assessment Questionnaire
 
+> Portfolio note: This is a sample learning artifact for junior GRC/compliance practice. It is not an approved vendor risk process and does not represent ownership of an enterprise TPRM program.
+
 **Document ID:** TPRM-001
 **Version:** 1.0
-**Owner:** GRC Analyst / Compliance Officer
+**Sample Role:** GRC Analyst / Compliance Officer
 **Purpose:** Evaluate the security posture of vendors, contractors, and business associates prior to onboarding and during annual review cycles.
 
 ---
@@ -47,7 +49,7 @@ This questionnaire must be completed by the vendor's authorized security or comp
 
 ## Section 2: Governance and Compliance (Weight: 15%)
 
-**2.1** Does your organization have a documented Information Security Policy approved by senior leadership?
+**2.1** Does your organization have a documented Information Security Policy approved by appropriate leadership?
 - ☐ Yes — attach policy or summary
 - ☐ No
 - ☐ In development
@@ -306,7 +308,7 @@ This questionnaire must be completed by the vendor's authorized security or comp
 
 ## Section 11: Vendor Attestation
 
-By submitting this questionnaire, the undersigned certifies that all responses are accurate and complete to the best of their knowledge. The undersigned acknowledges that providing false or misleading information may result in termination of the vendor relationship and potential legal action.
+By submitting this questionnaire, the undersigned confirms that all responses are accurate and complete to the best of their knowledge. Final language should be reviewed by legal, procurement, and compliance leadership before use in a real vendor process.
 
 | Field | Response |
 |---|---|
