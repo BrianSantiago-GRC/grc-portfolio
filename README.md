@@ -2,13 +2,13 @@
 
 Brian Santiago | Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://linkedin.com/in/briansantiago-grc)
 
-Sample GRC documentation portfolio for junior GRC, compliance operations, and security-focused IT operations roles.
+Completed GRC documentation portfolio for junior GRC, compliance operations, and security-focused IT operations roles.
 
 ---
 
 ## Project Purpose
 
-This repository is a sample GRC documentation portfolio.
+This repository contains completed GRC portfolio artifacts built with sanitized practice context.
 
 I created these artifacts to practice how risk, controls, audit evidence, access reviews, policies, and incident response documentation connect in a compliance operations environment.
 
@@ -30,7 +30,7 @@ The work is meant to show practical understanding and documentation discipline, 
 
 ## What I Practiced
 
-- Organizing sample GRC artifacts by function.
+- Organizing completed GRC artifacts by function.
 - Mapping documentation to common framework and compliance concepts.
 - Writing clear policy, procedure, risk, and evidence support documents.
 - Thinking through audit evidence, access control, risk, and incident response from an operations perspective.
@@ -42,15 +42,15 @@ The work is meant to show practical understanding and documentation discipline, 
 
 | Document | Focus |
 |---|---|
-| [Risk Register](risk-management/risk-register.md) | Sample risk tracking and scoring practice |
-| [Risk Assessment Methodology](risk-management/risk-assessment-methodology.md) | Sample risk scoring criteria and treatment options |
-| [HIPAA Security Rule Audit Checklist](audit-compliance/hipaa-security-rule-checklist.md) | Sample HIPAA audit evidence checklist |
-| [NIST CSF 2.0 Maturity Assessment](audit-compliance/nist-csf-maturity-assessment.md) | Sample maturity assessment practice |
-| [ISO 27001 Gap Analysis](frameworks/iso27001-gap-analysis.md) | Sample control gap review practice |
-| [Information Security Policy](policies/information-security-policy.md) | Sample policy documentation |
-| [Access Control Policy](policies/access-control-policy.md) | Sample access control documentation |
-| [Incident Response Plan](incident-response/incident-response-plan.md) | Sample incident response documentation |
-| [Third-Party Risk Assessment Questionnaire](templates/third-party-risk-assessment-questionnaire.md) | Sample vendor risk questionnaire |
+| [Risk Register](risk-management/risk-register.md) | Completed risk tracking and scoring artifact |
+| [Risk Assessment Methodology](risk-management/risk-assessment-methodology.md) | Completed risk scoring criteria and treatment artifact |
+| [HIPAA Security Rule Audit Checklist](audit-compliance/hipaa-security-rule-checklist.md) | Completed HIPAA audit evidence checklist |
+| [NIST CSF 2.0 Maturity Assessment](audit-compliance/nist-csf-maturity-assessment.md) | Completed maturity assessment artifact |
+| [ISO 27001 Gap Analysis](frameworks/iso27001-gap-analysis.md) | Completed control gap review artifact |
+| [Information Security Policy](policies/information-security-policy.md) | Completed policy documentation artifact |
+| [Access Control Policy](policies/access-control-policy.md) | Completed access control documentation artifact |
+| [Incident Response Plan](incident-response/incident-response-plan.md) | Completed incident response documentation artifact |
+| [Third-Party Risk Assessment Questionnaire](templates/third-party-risk-assessment-questionnaire.md) | Completed vendor risk questionnaire artifact |
 
 ---
 
@@ -80,10 +80,10 @@ Screenshots or artifact previews will be added where useful.
 
 Planned additions:
 
-- Sample risk register preview.
-- Sample access review evidence layout.
-- Sample audit checklist preview.
-- Sample incident response notes layout.
+- Risk register preview.
+- Access review evidence layout.
+- Audit checklist preview.
+- Incident response notes layout.
 
 No screenshots are claimed until files are added and sanitized.
 
@@ -100,4 +100,4 @@ No screenshots are claimed until files are added and sanitized.
 
 ## Limitations
 
-These are sample learning artifacts. They do not represent live program ownership, audit authority, or compliance leadership.
+These are completed portfolio artifacts built with sanitized practice context. They do not represent live program ownership, audit authority, or compliance leadership.
