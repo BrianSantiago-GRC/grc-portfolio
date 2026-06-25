@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Brian Santiago recruiter proof map</title>
+  <desc id="desc">Visual map connecting IT support, identity, endpoint investigation, SOC lab practice, and GRC evidence.</desc>
+  <rect width="1200" height="720" fill="#0f172a"/>
+  <rect x="48" y="48" width="1104" height="624" rx="22" fill="#f8fafc"/>
+  <text x="96" y="118" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#111827">Brian Santiago</text>
+  <text x="96" y="164" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#334155">IT support now, with identity, endpoint, SOC, and GRC proof recruiters can inspect.</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="96" y="220" width="300" height="130" rx="16" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="124" y="265" font-size="27" font-weight="700" fill="#1e3a8a">IT Support</text>
+    <text x="124" y="302" font-size="19" fill="#1e293b">Microsoft 365, AD/Entra</text>
+    <text x="124" y="329" font-size="19" fill="#1e293b">400+ tickets/mo, 99% SLA</text>
+
+    <rect x="450" y="220" width="300" height="130" rx="16" fill="#dcfce7" stroke="#16a34a" stroke-width="3"/>
+    <text x="478" y="265" font-size="27" font-weight="700" fill="#166534">Identity / IAM</text>
+    <text x="478" y="302" font-size="19" fill="#1e293b">MFA, access reviews</text>
+    <text x="478" y="329" font-size="19" fill="#1e293b">JML, least privilege</text>
+
+    <rect x="804" y="220" width="300" height="130" rx="16" fill="#fef3c7" stroke="#d97706" stroke-width="3"/>
+    <text x="832" y="265" font-size="27" font-weight="700" fill="#92400e">Endpoint / SOC</text>
+    <text x="832" y="302" font-size="19" fill="#1e293b">Defender, Event Viewer</text>
+    <text x="832" y="329" font-size="19" fill="#1e293b">Sentinel, KQL, phishing</text>
+
+    <rect x="273" y="430" width="300" height="130" rx="16" fill="#ede9fe" stroke="#7c3aed" stroke-width="3"/>
+    <text x="301" y="475" font-size="27" font-weight="700" fill="#5b21b6">GRC Evidence</text>
+    <text x="301" y="512" font-size="19" fill="#1e293b">Risk, controls, audit</text>
+    <text x="301" y="539" font-size="19" fill="#1e293b">NIST, ISO, HIPAA, SOX</text>
+
+    <rect x="627" y="430" width="300" height="130" rx="16" fill="#ffe4e6" stroke="#e11d48" stroke-width="3"/>
+    <text x="655" y="475" font-size="27" font-weight="700" fill="#9f1239">Recruiter Value</text>
+    <text x="655" y="512" font-size="19" fill="#1e293b">Readable proof, honest scope</text>
+    <text x="655" y="539" font-size="19" fill="#1e293b">Support-first placement fit</text>
+
+    <path d="M396 285 H450" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+    <path d="M750 285 H804" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+    <path d="M600 350 L455 430" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+    <path d="M600 350 L745 430" stroke="#64748b" stroke-width="5" stroke-linecap="round"/>
+  </g>
+  <text x="96" y="632" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#475569">Target roles: IT Support, Help Desk, Desktop Support, Junior SOC, Security Support, GRC, IT Compliance, IT Risk.</text>
+</svg>
