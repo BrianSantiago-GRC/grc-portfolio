@@ -1,3 +1,17 @@
+<!-- recruiter-review:start -->
+## Recruiter Quick Review
+
+**Best-fit roles:** GRC Analyst, IT Compliance Analyst, IT Risk Analyst, audit evidence support, access review support, security compliance support, IT support with compliance responsibilities.
+
+**What this proves:** I can organize GRC documentation around risks, controls, audit evidence, access reviews, policies, incident response, third-party risk, and framework-aligned compliance thinking.
+
+**Search keywords:** GRC, IT compliance, IT risk, audit evidence, risk register, NIST CSF, ISO 27001, HIPAA, SOX ITGC, access review, policy, incident response, third-party risk, control mapping, compliance operations.
+
+**Start here:** [RECRUITER_REVIEW.md](RECRUITER_REVIEW.md)
+
+**Honest scope:** Completed portfolio artifacts using sanitized practice context. This does not claim live GRC program ownership, audit authority, or compliance leadership.
+<!-- recruiter-review:end -->
+
 # GRC Portfolio
 
 Brian Santiago | Ocala, FL | briand.santiago@gmail.com | [LinkedIn](https://linkedin.com/in/briansantiago-grc)
